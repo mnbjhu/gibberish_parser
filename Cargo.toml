@@ -8,4 +8,4 @@ edition = "2021"
 path = "src/lib.rs"
 
 [dependencies]
-gibberish-core = { path = "../gibberish/crates/gibberish_core" }
+gibberish-core = "0.1.0"
