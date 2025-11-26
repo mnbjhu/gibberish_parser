@@ -2,6 +2,10 @@
 name = "gibberish-gibberish-parser"
 version = "0.1.0"
 edition = "2021"
+description = "A parser for the gibberish language"
+license = "MIT"                                           # or whatever you actually use
+repository = "https://github.com/mnbjhu/gibberish_parser"
+readme = "README.md"
 
 # Adjust as needed for your workspace/publishing
 [lib]
