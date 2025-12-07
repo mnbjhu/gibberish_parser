@@ -74,6 +74,7 @@ pub enum GibberishSyntax {
     LabelledQuery = 17,
     HighlightDef = 18,
     Root = 21,
+    Unmatched = 22,
 }
 
 impl Display for GibberishToken {
