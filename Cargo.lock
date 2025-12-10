@@ -19,7 +19,9 @@ checksum = "9330f8b2ff13f34540b44e946ef35111825727b38d33286ef986142615121801"
 
 [[package]]
 name = "gibberish-core"
-version = "0.1.0"
+version = "0.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "7c120b217ab670f662dbecc98886b56ba09f44be785d2bb0e67a436e48087c32"
 dependencies = [
  "ansi_term",
  "libloading",
@@ -27,7 +29,7 @@ dependencies = [
 
 [[package]]
 name = "gibberish-gibberish-parser"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "gibberish-core",
 ]
